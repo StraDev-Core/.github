@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="StraDev Core" width="120" />
+<img src="profile/logo.png" alt="StraDev Core" width="120" />
 
 # StraDev Core
 
