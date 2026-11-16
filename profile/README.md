@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- Optional: add the logo here once it is committed to this repo
 <img src="./logo.png" alt="StraDev Core" width="120" />
--->
 
 # StraDev Core
 
